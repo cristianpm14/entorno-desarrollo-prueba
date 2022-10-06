@@ -1,0 +1,2 @@
+"# entorno-desarrollo-prueba"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/cristianpm14/entorno-desarrollo-prueba.gitgit push -u origin main
+"# entorno-desarrollo-prueba" 
